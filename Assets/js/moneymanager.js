@@ -1,5 +1,5 @@
-const serverURL = 'http://172.16.100.25:5000';
-//const serverURL = 'http://localhost:5000';
+//const serverURL = 'http://172.16.100.25:5000';
+//const serverURL = 'http://localhost:';
 
 let loggedInMenu = document.querySelector('#loggedInMenu');
 let loggedOutMenu = document.querySelector('#loggedOutMenu');
